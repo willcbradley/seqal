@@ -1,3 +1,3 @@
-Implemented the Needleman-Wunsch algorithm from scratch to figure out how it works.
+Needleman-Wunsch algorithm implemented from scratch.
 
 [Will Bradley](https://willcbradley.com)
